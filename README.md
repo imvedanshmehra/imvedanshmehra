@@ -1,2 +1,2 @@
- <h1>Hi there 👋 , I am Vedansh Mehra!<h1>
+ <h1>Hi there :wave: , I am Vedansh Mehra!<h1>
 
