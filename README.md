@@ -2,7 +2,7 @@
  
  ---
  
-A software developer from India primarily working on JavaScript technologies and few other technologies mentioned in the ***toolkit*** below.
+A software developer from India primarily working on JavaScript and few other technologies mentioned in the ***toolkit*** below.
 
 ---
 
