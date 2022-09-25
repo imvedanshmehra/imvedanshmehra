@@ -1,4 +1,4 @@
- ### Hi there <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" height="20px"> , I am Vedansh Mehra!
+ ### Hi there <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" height="20px"> , I am Vedansh!
  
  ---
  
