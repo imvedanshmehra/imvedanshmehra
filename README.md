@@ -14,7 +14,8 @@ A software developer from India primarily working on JavaScript and few other te
 
 #### :books: Recent Blog Posts
 <!-- BLOGPOSTS:START -->
-<!-- BLOGPOSTS:END -->
+ - 💫 [How to store Javascript array in localStorage?](https://vedanshmehra.hashnode.dev/how-to-store-javascript-array-in-localstorage)
+ - 🚀 [Beautify your git logs](https://vedanshmehra.hashnode.dev/beautify-your-git-logs)<!-- BLOGPOSTS:END -->
 
 ## &#x1f4c8; GitHub Stats
 ![Vedansh's GitHub stats](https://github-readme-stats.vercel.app/api?username=imvedanshmehra&theme=react)
