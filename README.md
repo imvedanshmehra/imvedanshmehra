@@ -14,6 +14,16 @@ A software developer from India primarily working on JavaScript and few other te
 
 # Recent Activity :zap:
 <!--START_SECTION:activity-->
+1. ❗️ Opened issue [#565](https://github.com/IAmTamal/Milan/issues/565) in [IAmTamal/Milan](https://github.com/IAmTamal/Milan)
+2. 🗣 Commented on [#564](https://github.com/IAmTamal/Milan/issues/564) in [IAmTamal/Milan](https://github.com/IAmTamal/Milan)
+3. ❗️ Opened issue [#562](https://github.com/IAmTamal/Milan/issues/562) in [IAmTamal/Milan](https://github.com/IAmTamal/Milan)
+4. 💪 Opened PR [#561](https://github.com/IAmTamal/Milan/pull/561) in [IAmTamal/Milan](https://github.com/IAmTamal/Milan)
+5. ❗️ Opened issue [#560](https://github.com/IAmTamal/Milan/issues/560) in [IAmTamal/Milan](https://github.com/IAmTamal/Milan)
+6. 🗣 Commented on [#558](https://github.com/IAmTamal/Milan/issues/558) in [IAmTamal/Milan](https://github.com/IAmTamal/Milan)
+7. 🗣 Commented on [#547](https://github.com/IAmTamal/Milan/issues/547) in [IAmTamal/Milan](https://github.com/IAmTamal/Milan)
+8. 💪 Opened PR [#548](https://github.com/IAmTamal/Milan/pull/548) in [IAmTamal/Milan](https://github.com/IAmTamal/Milan)
+9. 🗣 Commented on [#547](https://github.com/IAmTamal/Milan/issues/547) in [IAmTamal/Milan](https://github.com/IAmTamal/Milan)
+10. 🗣 Commented on [#547](https://github.com/IAmTamal/Milan/issues/547) in [IAmTamal/Milan](https://github.com/IAmTamal/Milan)
 <!--END_SECTION:activity-->
 
 ---
