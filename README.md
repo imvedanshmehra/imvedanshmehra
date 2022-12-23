@@ -12,6 +12,12 @@ A software developer from India primarily working on JavaScript and few other te
 
 ---
 
+# Recent Activity :zap:
+<!--START_SECTION:activity-->
+<!--END_SECTION:activity-->
+
+---
+
 #### :books: Recent Blog Posts
 <!-- BLOGPOSTS:START -->
  - 💫 [How to store Javascript array in localStorage?](https://vedanshmehra.hashnode.dev/how-to-store-javascript-array-in-localstorage)
