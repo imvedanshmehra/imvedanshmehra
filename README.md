@@ -30,8 +30,9 @@ A software developer from India primarily working on JavaScript and few other te
 
 #### :books: Recent Blog Posts
 <!-- BLOGPOSTS:START -->
- - 💫 [How to store Javascript array in localStorage?](https://vedanshmehra.hashnode.dev/how-to-store-javascript-array-in-localstorage)
- - 🚀 [Beautify your git logs](https://vedanshmehra.hashnode.dev/beautify-your-git-logs)<!-- BLOGPOSTS:END -->
+ - 💫 [5 steps to get your first job as a software developer](https://vedanshmehra.hashnode.dev/get-your-first-job-as-a-software-developer)
+ - 🚀 [How to store Javascript array in localStorage?](https://vedanshmehra.hashnode.dev/how-to-store-javascript-array-in-localstorage)
+ - 🔥 [Beautify your git logs](https://vedanshmehra.hashnode.dev/beautify-your-git-logs)<!-- BLOGPOSTS:END -->
  
 ---
 
