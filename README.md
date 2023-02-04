@@ -14,16 +14,16 @@ A software developer from India primarily working on JavaScript and few other te
 
 # Recent Activity :zap:
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#44](https://github.com/TechSquidTV/Shoutify/issues/44) in [TechSquidTV/Shoutify](https://github.com/TechSquidTV/Shoutify)
-2. 💪 Opened PR [#44](https://github.com/TechSquidTV/Shoutify/pull/44) in [TechSquidTV/Shoutify](https://github.com/TechSquidTV/Shoutify)
-3. 🗣 Commented on [#43](https://github.com/TechSquidTV/Shoutify/issues/43) in [TechSquidTV/Shoutify](https://github.com/TechSquidTV/Shoutify)
+1. ❗️ Opened issue [#446](https://github.com/open-sauced/hot/issues/446) in [open-sauced/hot](https://github.com/open-sauced/hot)
+2. 🗣 Commented on [#44](https://github.com/TechSquidTV/Shoutify/issues/44) in [TechSquidTV/Shoutify](https://github.com/TechSquidTV/Shoutify)
+3. 💪 Opened PR [#44](https://github.com/TechSquidTV/Shoutify/pull/44) in [TechSquidTV/Shoutify](https://github.com/TechSquidTV/Shoutify)
 4. 🗣 Commented on [#43](https://github.com/TechSquidTV/Shoutify/issues/43) in [TechSquidTV/Shoutify](https://github.com/TechSquidTV/Shoutify)
-5. ❗️ Opened issue [#565](https://github.com/IAmTamal/Milan/issues/565) in [IAmTamal/Milan](https://github.com/IAmTamal/Milan)
-6. 🗣 Commented on [#564](https://github.com/IAmTamal/Milan/issues/564) in [IAmTamal/Milan](https://github.com/IAmTamal/Milan)
-7. ❗️ Opened issue [#562](https://github.com/IAmTamal/Milan/issues/562) in [IAmTamal/Milan](https://github.com/IAmTamal/Milan)
-8. 💪 Opened PR [#561](https://github.com/IAmTamal/Milan/pull/561) in [IAmTamal/Milan](https://github.com/IAmTamal/Milan)
-9. ❗️ Opened issue [#560](https://github.com/IAmTamal/Milan/issues/560) in [IAmTamal/Milan](https://github.com/IAmTamal/Milan)
-10. 🗣 Commented on [#558](https://github.com/IAmTamal/Milan/issues/558) in [IAmTamal/Milan](https://github.com/IAmTamal/Milan)
+5. 🗣 Commented on [#43](https://github.com/TechSquidTV/Shoutify/issues/43) in [TechSquidTV/Shoutify](https://github.com/TechSquidTV/Shoutify)
+6. ❗️ Opened issue [#565](https://github.com/IAmTamal/Milan/issues/565) in [IAmTamal/Milan](https://github.com/IAmTamal/Milan)
+7. 🗣 Commented on [#564](https://github.com/IAmTamal/Milan/issues/564) in [IAmTamal/Milan](https://github.com/IAmTamal/Milan)
+8. ❗️ Opened issue [#562](https://github.com/IAmTamal/Milan/issues/562) in [IAmTamal/Milan](https://github.com/IAmTamal/Milan)
+9. 💪 Opened PR [#561](https://github.com/IAmTamal/Milan/pull/561) in [IAmTamal/Milan](https://github.com/IAmTamal/Milan)
+10. ❗️ Opened issue [#560](https://github.com/IAmTamal/Milan/issues/560) in [IAmTamal/Milan](https://github.com/IAmTamal/Milan)
 <!--END_SECTION:activity-->
 
 ---
