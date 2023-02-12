@@ -30,11 +30,11 @@ A software developer from India primarily working on JavaScript and few other te
 
 #### :books: Recent Blog Posts
 <!-- BLOGPOSTS:START -->
- - 💫 [Binary Search Tree in Javascript](https://vedanshmehra.hashnode.dev/binary-search-tree-in-javascript)
- - 🚀 [Setting up a monorepo with Vite, Typescript, and pnpm workspaces](https://vedanshmehra.hashnode.dev/setting-up-a-monorepo-with-vite-typescript-and-pnpm-workspaces)
- - 🔥 [5 steps to get your first job as a software developer](https://vedanshmehra.hashnode.dev/get-your-first-job-as-a-software-developer)
- - 🚀 [How to store Javascript array in localStorage?](https://vedanshmehra.hashnode.dev/how-to-store-javascript-array-in-localstorage)
- - 💫 [Beautify your git logs](https://vedanshmehra.hashnode.dev/beautify-your-git-logs)<!-- BLOGPOSTS:END -->
+ - 💫 [How to find a valid anagram in Javascript?](https://vedanshmehra.hashnode.dev/how-to-find-a-valid-anagram-in-javascript)
+ - 🚀 [Binary Search Tree in Javascript](https://vedanshmehra.hashnode.dev/binary-search-tree-in-javascript)
+ - 🔥 [Setting up a monorepo with Vite, Typescript, and pnpm workspaces](https://vedanshmehra.hashnode.dev/setting-up-a-monorepo-with-vite-typescript-and-pnpm-workspaces)
+ - 🚀 [5 steps to get your first job as a software developer](https://vedanshmehra.hashnode.dev/get-your-first-job-as-a-software-developer)
+ - 💫 [How to store Javascript array in localStorage?](https://vedanshmehra.hashnode.dev/how-to-store-javascript-array-in-localstorage)<!-- BLOGPOSTS:END -->
  
 ---
 
