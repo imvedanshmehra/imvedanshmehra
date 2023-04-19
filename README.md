@@ -14,16 +14,16 @@ A software developer from India primarily working on JavaScript and few other te
 
 # Recent Activity :zap:
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#448](https://github.com/open-sauced/hot/issues/448) in [open-sauced/hot](https://github.com/open-sauced/hot)
+1. 💪 Opened PR [#6217](https://github.com/EddieHubCommunity/LinkFree/pull/6217) in [EddieHubCommunity/LinkFree](https://github.com/EddieHubCommunity/LinkFree)
 2. 🗣 Commented on [#448](https://github.com/open-sauced/hot/issues/448) in [open-sauced/hot](https://github.com/open-sauced/hot)
-3. 💪 Opened PR [#448](https://github.com/open-sauced/hot/pull/448) in [open-sauced/hot](https://github.com/open-sauced/hot)
-4. 🗣 Commented on [#446](https://github.com/open-sauced/hot/issues/446) in [open-sauced/hot](https://github.com/open-sauced/hot)
-5. ❗️ Opened issue [#446](https://github.com/open-sauced/hot/issues/446) in [open-sauced/hot](https://github.com/open-sauced/hot)
-6. 🗣 Commented on [#44](https://github.com/TechSquidTV/Shoutify/issues/44) in [TechSquidTV/Shoutify](https://github.com/TechSquidTV/Shoutify)
-7. 💪 Opened PR [#44](https://github.com/TechSquidTV/Shoutify/pull/44) in [TechSquidTV/Shoutify](https://github.com/TechSquidTV/Shoutify)
-8. 🗣 Commented on [#43](https://github.com/TechSquidTV/Shoutify/issues/43) in [TechSquidTV/Shoutify](https://github.com/TechSquidTV/Shoutify)
+3. 🗣 Commented on [#448](https://github.com/open-sauced/hot/issues/448) in [open-sauced/hot](https://github.com/open-sauced/hot)
+4. 💪 Opened PR [#448](https://github.com/open-sauced/hot/pull/448) in [open-sauced/hot](https://github.com/open-sauced/hot)
+5. 🗣 Commented on [#446](https://github.com/open-sauced/hot/issues/446) in [open-sauced/hot](https://github.com/open-sauced/hot)
+6. ❗️ Opened issue [#446](https://github.com/open-sauced/hot/issues/446) in [open-sauced/hot](https://github.com/open-sauced/hot)
+7. 🗣 Commented on [#44](https://github.com/TechSquidTV/Shoutify/issues/44) in [TechSquidTV/Shoutify](https://github.com/TechSquidTV/Shoutify)
+8. 💪 Opened PR [#44](https://github.com/TechSquidTV/Shoutify/pull/44) in [TechSquidTV/Shoutify](https://github.com/TechSquidTV/Shoutify)
 9. 🗣 Commented on [#43](https://github.com/TechSquidTV/Shoutify/issues/43) in [TechSquidTV/Shoutify](https://github.com/TechSquidTV/Shoutify)
-10. ❗️ Opened issue [#565](https://github.com/IAmTamal/Milan/issues/565) in [IAmTamal/Milan](https://github.com/IAmTamal/Milan)
+10. 🗣 Commented on [#43](https://github.com/TechSquidTV/Shoutify/issues/43) in [TechSquidTV/Shoutify](https://github.com/TechSquidTV/Shoutify)
 <!--END_SECTION:activity-->
 
 ---
