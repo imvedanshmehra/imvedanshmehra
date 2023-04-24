@@ -30,11 +30,11 @@ A software developer from India primarily working on JavaScript and few other te
 
 #### :books: Recent Blog Posts
 <!-- BLOGPOSTS:START -->
- - 💫 [Package React Applications using Docker](https://vedanshmehra.hashnode.dev/package-react-applications-using-docker)
- - 🚀 [Difference between useMemo and useCallback](https://vedanshmehra.hashnode.dev/difference-between-usememo-and-usecallback)
- - 🔥 [How to find a valid anagram in Javascript?](https://vedanshmehra.hashnode.dev/how-to-find-a-valid-anagram-in-javascript)
- - 🚀 [Binary Search Tree in Javascript](https://vedanshmehra.hashnode.dev/binary-search-tree-in-javascript)
- - 💫 [Setting up a monorepo with Vite, Typescript, and pnpm workspaces](https://vedanshmehra.hashnode.dev/setting-up-a-monorepo-with-vite-typescript-and-pnpm-workspaces)<!-- BLOGPOSTS:END -->
+ - 💫 [Monorepo setup with Npm Workspaces &amp; Lerna](https://vedanshmehra.hashnode.dev/monorepo-setup-with-npm-workspaces-lerna)
+ - 🚀 [Package React Applications using Docker](https://vedanshmehra.hashnode.dev/package-react-applications-using-docker)
+ - 🔥 [Difference between useMemo and useCallback](https://vedanshmehra.hashnode.dev/difference-between-usememo-and-usecallback)
+ - 🚀 [How to find a valid anagram in Javascript?](https://vedanshmehra.hashnode.dev/how-to-find-a-valid-anagram-in-javascript)
+ - 💫 [Binary Search Tree in Javascript](https://vedanshmehra.hashnode.dev/binary-search-tree-in-javascript)<!-- BLOGPOSTS:END -->
  
 ---
 
