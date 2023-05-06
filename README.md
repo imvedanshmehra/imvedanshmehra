@@ -14,11 +14,11 @@ A software developer from India primarily working on JavaScript and few other te
 
 # Recent Activity :zap:
 <!--START_SECTION:activity-->
-1. 💪 Opened PR [#6217](https://github.com/EddieHubCommunity/LinkFree/pull/6217) in [EddieHubCommunity/LinkFree](https://github.com/EddieHubCommunity/LinkFree)
-2. 🗣 Commented on [#448](https://github.com/open-sauced/hot/issues/448) in [open-sauced/hot](https://github.com/open-sauced/hot)
+1. 🗣 Commented on [#93](https://github.com/Jonghakseo/chrome-extension-boilerplate-react-vite/issues/93) in [Jonghakseo/chrome-extension-boilerplate-react-vite](https://github.com/Jonghakseo/chrome-extension-boilerplate-react-vite)
+2. 💪 Opened PR [#6217](https://github.com/EddieHubCommunity/LinkFree/pull/6217) in [EddieHubCommunity/LinkFree](https://github.com/EddieHubCommunity/LinkFree)
 3. 🗣 Commented on [#448](https://github.com/open-sauced/hot/issues/448) in [open-sauced/hot](https://github.com/open-sauced/hot)
-4. 💪 Opened PR [#448](https://github.com/open-sauced/hot/pull/448) in [open-sauced/hot](https://github.com/open-sauced/hot)
-5. 🗣 Commented on [#446](https://github.com/open-sauced/hot/issues/446) in [open-sauced/hot](https://github.com/open-sauced/hot)
+4. 🗣 Commented on [#448](https://github.com/open-sauced/hot/issues/448) in [open-sauced/hot](https://github.com/open-sauced/hot)
+5. 💪 Opened PR [#448](https://github.com/open-sauced/hot/pull/448) in [open-sauced/hot](https://github.com/open-sauced/hot)
 6. ❗️ Opened issue [#446](https://github.com/open-sauced/hot/issues/446) in [open-sauced/hot](https://github.com/open-sauced/hot)
 7. 🗣 Commented on [#44](https://github.com/TechSquidTV/Shoutify/issues/44) in [TechSquidTV/Shoutify](https://github.com/TechSquidTV/Shoutify)
 8. 💪 Opened PR [#44](https://github.com/TechSquidTV/Shoutify/pull/44) in [TechSquidTV/Shoutify](https://github.com/TechSquidTV/Shoutify)
