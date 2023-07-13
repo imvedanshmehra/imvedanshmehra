@@ -14,7 +14,7 @@ A software developer from India primarily working on JavaScript and few other te
 
 # Recent Activity :zap:
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#93](https://github.com/Jonghakseo/chrome-extension-boilerplate-react-vite/issues/93) in [Jonghakseo/chrome-extension-boilerplate-react-vite](https://github.com/Jonghakseo/chrome-extension-boilerplate-react-vite)
+1. 🗣 Commented on [#93](https://github.com/Jonghakseo/chrome-extension-boilerplate-react-vite/issues/93#issuecomment-1537222274) in [Jonghakseo/chrome-extension-boilerplate-react-vite](https://github.com/Jonghakseo/chrome-extension-boilerplate-react-vite)
 2. 💪 Opened PR [#6217](https://github.com/EddieHubCommunity/LinkFree/pull/6217) in [EddieHubCommunity/LinkFree](https://github.com/EddieHubCommunity/LinkFree)
 3. 🗣 Commented on [#448](https://github.com/open-sauced/hot/issues/448) in [open-sauced/hot](https://github.com/open-sauced/hot)
 4. 🗣 Commented on [#448](https://github.com/open-sauced/hot/issues/448) in [open-sauced/hot](https://github.com/open-sauced/hot)
