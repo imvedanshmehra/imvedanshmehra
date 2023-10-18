@@ -14,9 +14,9 @@ A software developer from India primarily working on JavaScript and few other te
 
 # Recent Activity :zap:
 <!--START_SECTION:activity-->
-1. 🎉 Merged PR [#1](https://github.com/digitallydrunk/PrepaidFriends2.0/pull/1) in [digitallydrunk/PrepaidFriends2.0](https://github.com/digitallydrunk/PrepaidFriends2.0)
-2. 🗣 Commented on [#128](https://github.com/Glench/ExtPay/issues/128#issuecomment-1680404424) in [Glench/ExtPay](https://github.com/Glench/ExtPay)
-3. 🗣 Commented on [#448](https://github.com/open-sauced/hot/issues/448) in [open-sauced/hot](https://github.com/open-sauced/hot)
+1. 🎉 Merged PR [#2](https://github.com/digitallydrunk/PrepaidFriends2.0/pull/2) in [digitallydrunk/PrepaidFriends2.0](https://github.com/digitallydrunk/PrepaidFriends2.0)
+2. 🎉 Merged PR [#1](https://github.com/digitallydrunk/PrepaidFriends2.0/pull/1) in [digitallydrunk/PrepaidFriends2.0](https://github.com/digitallydrunk/PrepaidFriends2.0)
+3. 🗣 Commented on [#128](https://github.com/Glench/ExtPay/issues/128#issuecomment-1680404424) in [Glench/ExtPay](https://github.com/Glench/ExtPay)
 4. 🗣 Commented on [#448](https://github.com/open-sauced/hot/issues/448) in [open-sauced/hot](https://github.com/open-sauced/hot)
 5. 💪 Opened PR [#448](https://github.com/open-sauced/hot/pull/448) in [open-sauced/hot](https://github.com/open-sauced/hot)
 6. ❗️ Opened issue [#446](https://github.com/open-sauced/hot/issues/446) in [open-sauced/hot](https://github.com/open-sauced/hot)
