@@ -14,14 +14,14 @@ A software developer from India primarily working on JavaScript and few other te
 
 # Recent Activity :zap:
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#11](https://github.com/digitallydrunk/PrepaidFriends2.0/pull/11#issuecomment-1777843435) in [digitallydrunk/PrepaidFriends2.0](https://github.com/digitallydrunk/PrepaidFriends2.0)
-2. 🎉 Merged PR [#4](https://github.com/digitallydrunk/PrepaidFriends2.0/pull/4) in [digitallydrunk/PrepaidFriends2.0](https://github.com/digitallydrunk/PrepaidFriends2.0)
-3. 🎉 Merged PR [#3](https://github.com/digitallydrunk/PrepaidFriends2.0/pull/3) in [digitallydrunk/PrepaidFriends2.0](https://github.com/digitallydrunk/PrepaidFriends2.0)
-4. ❌ Closed PR [#9](https://github.com/digitallydrunk/PrepaidFriends2.0/pull/9) in [digitallydrunk/PrepaidFriends2.0](https://github.com/digitallydrunk/PrepaidFriends2.0)
-5. 🎉 Merged PR [#2](https://github.com/digitallydrunk/PrepaidFriends2.0/pull/2) in [digitallydrunk/PrepaidFriends2.0](https://github.com/digitallydrunk/PrepaidFriends2.0)
-6. 🎉 Merged PR [#1](https://github.com/digitallydrunk/PrepaidFriends2.0/pull/1) in [digitallydrunk/PrepaidFriends2.0](https://github.com/digitallydrunk/PrepaidFriends2.0)
-7. 🗣 Commented on [#128](https://github.com/Glench/ExtPay/issues/128#issuecomment-1680404424) in [Glench/ExtPay](https://github.com/Glench/ExtPay)
-8. 💪 Opened PR [#44](https://github.com/TechSquidTV/Shoutify/pull/44) in [TechSquidTV/Shoutify](https://github.com/TechSquidTV/Shoutify)
+1. 🎉 Merged PR [#10](https://github.com/digitallydrunk/PrepaidFriends2.0/pull/10) in [digitallydrunk/PrepaidFriends2.0](https://github.com/digitallydrunk/PrepaidFriends2.0)
+2. 🗣 Commented on [#11](https://github.com/digitallydrunk/PrepaidFriends2.0/pull/11#issuecomment-1777843435) in [digitallydrunk/PrepaidFriends2.0](https://github.com/digitallydrunk/PrepaidFriends2.0)
+3. 🎉 Merged PR [#4](https://github.com/digitallydrunk/PrepaidFriends2.0/pull/4) in [digitallydrunk/PrepaidFriends2.0](https://github.com/digitallydrunk/PrepaidFriends2.0)
+4. 🎉 Merged PR [#3](https://github.com/digitallydrunk/PrepaidFriends2.0/pull/3) in [digitallydrunk/PrepaidFriends2.0](https://github.com/digitallydrunk/PrepaidFriends2.0)
+5. ❌ Closed PR [#9](https://github.com/digitallydrunk/PrepaidFriends2.0/pull/9) in [digitallydrunk/PrepaidFriends2.0](https://github.com/digitallydrunk/PrepaidFriends2.0)
+6. 🎉 Merged PR [#2](https://github.com/digitallydrunk/PrepaidFriends2.0/pull/2) in [digitallydrunk/PrepaidFriends2.0](https://github.com/digitallydrunk/PrepaidFriends2.0)
+7. 🎉 Merged PR [#1](https://github.com/digitallydrunk/PrepaidFriends2.0/pull/1) in [digitallydrunk/PrepaidFriends2.0](https://github.com/digitallydrunk/PrepaidFriends2.0)
+8. 🗣 Commented on [#128](https://github.com/Glench/ExtPay/issues/128#issuecomment-1680404424) in [Glench/ExtPay](https://github.com/Glench/ExtPay)
 9. 🗣 Commented on [#43](https://github.com/TechSquidTV/Shoutify/issues/43) in [TechSquidTV/Shoutify](https://github.com/TechSquidTV/Shoutify)
 10. 🗣 Commented on [#43](https://github.com/TechSquidTV/Shoutify/issues/43) in [TechSquidTV/Shoutify](https://github.com/TechSquidTV/Shoutify)
 <!--END_SECTION:activity-->
