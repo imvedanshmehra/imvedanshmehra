@@ -14,16 +14,16 @@ A software developer from India primarily working on JavaScript and few other te
 
 # Recent Activity :zap:
 <!--START_SECTION:activity-->
-1. 🎉 Merged PR [#36](https://github.com/digitallydrunk/PrepaidFriends2.0/pull/36) in [digitallydrunk/PrepaidFriends2.0](https://github.com/digitallydrunk/PrepaidFriends2.0)
-2. ❌ Closed PR [#32](https://github.com/digitallydrunk/PrepaidFriends2.0/pull/32) in [digitallydrunk/PrepaidFriends2.0](https://github.com/digitallydrunk/PrepaidFriends2.0)
-3. 🎉 Merged PR [#28](https://github.com/digitallydrunk/PrepaidFriends2.0/pull/28) in [digitallydrunk/PrepaidFriends2.0](https://github.com/digitallydrunk/PrepaidFriends2.0)
-4. 🎉 Merged PR [#33](https://github.com/digitallydrunk/PrepaidFriends2.0/pull/33) in [digitallydrunk/PrepaidFriends2.0](https://github.com/digitallydrunk/PrepaidFriends2.0)
-5. 🎉 Merged PR [#31](https://github.com/digitallydrunk/PrepaidFriends2.0/pull/31) in [digitallydrunk/PrepaidFriends2.0](https://github.com/digitallydrunk/PrepaidFriends2.0)
-6. 🎉 Merged PR [#29](https://github.com/digitallydrunk/PrepaidFriends2.0/pull/29) in [digitallydrunk/PrepaidFriends2.0](https://github.com/digitallydrunk/PrepaidFriends2.0)
-7. 🎉 Merged PR [#27](https://github.com/digitallydrunk/PrepaidFriends2.0/pull/27) in [digitallydrunk/PrepaidFriends2.0](https://github.com/digitallydrunk/PrepaidFriends2.0)
-8. 🗣 Commented on [#26](https://github.com/digitallydrunk/PrepaidFriends2.0/pull/26#issuecomment-1789527785) in [digitallydrunk/PrepaidFriends2.0](https://github.com/digitallydrunk/PrepaidFriends2.0)
-9. ❌ Closed PR [#17](https://github.com/digitallydrunk/PrepaidFriends2.0/pull/17) in [digitallydrunk/PrepaidFriends2.0](https://github.com/digitallydrunk/PrepaidFriends2.0)
-10. 🎉 Merged PR [#21](https://github.com/digitallydrunk/PrepaidFriends2.0/pull/21) in [digitallydrunk/PrepaidFriends2.0](https://github.com/digitallydrunk/PrepaidFriends2.0)
+1. 🎉 Merged PR [#37](https://github.com/digitallydrunk/PrepaidFriends2.0/pull/37) in [digitallydrunk/PrepaidFriends2.0](https://github.com/digitallydrunk/PrepaidFriends2.0)
+2. 🎉 Merged PR [#36](https://github.com/digitallydrunk/PrepaidFriends2.0/pull/36) in [digitallydrunk/PrepaidFriends2.0](https://github.com/digitallydrunk/PrepaidFriends2.0)
+3. ❌ Closed PR [#32](https://github.com/digitallydrunk/PrepaidFriends2.0/pull/32) in [digitallydrunk/PrepaidFriends2.0](https://github.com/digitallydrunk/PrepaidFriends2.0)
+4. 🎉 Merged PR [#28](https://github.com/digitallydrunk/PrepaidFriends2.0/pull/28) in [digitallydrunk/PrepaidFriends2.0](https://github.com/digitallydrunk/PrepaidFriends2.0)
+5. 🎉 Merged PR [#33](https://github.com/digitallydrunk/PrepaidFriends2.0/pull/33) in [digitallydrunk/PrepaidFriends2.0](https://github.com/digitallydrunk/PrepaidFriends2.0)
+6. 🎉 Merged PR [#31](https://github.com/digitallydrunk/PrepaidFriends2.0/pull/31) in [digitallydrunk/PrepaidFriends2.0](https://github.com/digitallydrunk/PrepaidFriends2.0)
+7. 🎉 Merged PR [#29](https://github.com/digitallydrunk/PrepaidFriends2.0/pull/29) in [digitallydrunk/PrepaidFriends2.0](https://github.com/digitallydrunk/PrepaidFriends2.0)
+8. 🎉 Merged PR [#27](https://github.com/digitallydrunk/PrepaidFriends2.0/pull/27) in [digitallydrunk/PrepaidFriends2.0](https://github.com/digitallydrunk/PrepaidFriends2.0)
+9. 🗣 Commented on [#26](https://github.com/digitallydrunk/PrepaidFriends2.0/pull/26#issuecomment-1789527785) in [digitallydrunk/PrepaidFriends2.0](https://github.com/digitallydrunk/PrepaidFriends2.0)
+10. ❌ Closed PR [#17](https://github.com/digitallydrunk/PrepaidFriends2.0/pull/17) in [digitallydrunk/PrepaidFriends2.0](https://github.com/digitallydrunk/PrepaidFriends2.0)
 <!--END_SECTION:activity-->
 
 ---
