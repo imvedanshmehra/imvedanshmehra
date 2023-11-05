@@ -30,11 +30,11 @@ A software developer from India primarily working on JavaScript and few other te
 
 #### :books: Recent Blog Posts
 <!-- BLOGPOSTS:START -->
- - 💫 [Auto-batching In React 18](https://vedanshmehra.hashnode.dev/auto-batching-in-react-18)
- - 🚀 [Deploy Node-Express-MySQL app on Railway for free &lpar;no credit card required&rpar;](https://vedanshmehra.hashnode.dev/deploy-node-express-mysql-app-on-railway-for-free-no-credit-card-required)
- - 🔥 [Monorepo setup with Npm Workspaces &amp; Lerna](https://vedanshmehra.hashnode.dev/monorepo-setup-with-npm-workspaces-lerna)
- - 🚀 [Package React Applications using Docker](https://vedanshmehra.hashnode.dev/package-react-applications-using-docker)
- - 💫 [Difference between useMemo and useCallback](https://vedanshmehra.hashnode.dev/difference-between-usememo-and-usecallback)<!-- BLOGPOSTS:END -->
+ - 💫 [Virtual Scrolling in React: Implementation from scratch and using react-window](https://vedanshmehra.hashnode.dev/virtual-scrolling-in-react-implementation-from-scratch-and-using-react-window)
+ - 🚀 [Auto-batching In React 18](https://vedanshmehra.hashnode.dev/auto-batching-in-react-18)
+ - 🔥 [Deploy Node-Express-MySQL app on Railway for free &lpar;no credit card required&rpar;](https://vedanshmehra.hashnode.dev/deploy-node-express-mysql-app-on-railway-for-free-no-credit-card-required)
+ - 🚀 [Monorepo setup with Npm Workspaces &amp; Lerna](https://vedanshmehra.hashnode.dev/monorepo-setup-with-npm-workspaces-lerna)
+ - 💫 [Package React Applications using Docker](https://vedanshmehra.hashnode.dev/package-react-applications-using-docker)<!-- BLOGPOSTS:END -->
  
 ---
 
