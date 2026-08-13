@@ -14,10 +14,10 @@ A software developer from India primarily working on JavaScript and few other te
 
 # Recent Activity :zap:
 <!--START_SECTION:activity-->
-1. 🎉 Merged PR [#1](https://github.com/imvedanshmehra/job-search-copilot/pull/1) in [imvedanshmehra/job-search-copilot](https://github.com/imvedanshmehra/job-search-copilot)
-2. 💪 Opened PR [#1](https://github.com/imvedanshmehra/job-search-copilot/pull/1) in [imvedanshmehra/job-search-copilot](https://github.com/imvedanshmehra/job-search-copilot)
-3. 🎉 Merged PR [#35](https://github.com/digitallydrunk/PrepaidFriends2.0/pull/35) in [digitallydrunk/PrepaidFriends2.0](https://github.com/digitallydrunk/PrepaidFriends2.0)
-4. 🎉 Merged PR [#34](https://github.com/digitallydrunk/PrepaidFriends2.0/pull/34) in [digitallydrunk/PrepaidFriends2.0](https://github.com/digitallydrunk/PrepaidFriends2.0)
+1. 🎉 Merged PR [#2](https://github.com/imvedanshmehra/job-search-copilot/pull/2) in [imvedanshmehra/job-search-copilot](https://github.com/imvedanshmehra/job-search-copilot)
+2. 💪 Opened PR [#2](https://github.com/imvedanshmehra/job-search-copilot/pull/2) in [imvedanshmehra/job-search-copilot](https://github.com/imvedanshmehra/job-search-copilot)
+3. 🎉 Merged PR [#1](https://github.com/imvedanshmehra/job-search-copilot/pull/1) in [imvedanshmehra/job-search-copilot](https://github.com/imvedanshmehra/job-search-copilot)
+4. 💪 Opened PR [#1](https://github.com/imvedanshmehra/job-search-copilot/pull/1) in [imvedanshmehra/job-search-copilot](https://github.com/imvedanshmehra/job-search-copilot)
 5. 🎉 Merged PR [#37](https://github.com/digitallydrunk/PrepaidFriends2.0/pull/37) in [digitallydrunk/PrepaidFriends2.0](https://github.com/digitallydrunk/PrepaidFriends2.0)
 6. 🎉 Merged PR [#36](https://github.com/digitallydrunk/PrepaidFriends2.0/pull/36) in [digitallydrunk/PrepaidFriends2.0](https://github.com/digitallydrunk/PrepaidFriends2.0)
 7. ❌ Closed PR [#32](https://github.com/digitallydrunk/PrepaidFriends2.0/pull/32) in [digitallydrunk/PrepaidFriends2.0](https://github.com/digitallydrunk/PrepaidFriends2.0)
