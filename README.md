@@ -14,8 +14,8 @@ A software developer from India primarily working on JavaScript and few other te
 
 # Recent Activity :zap:
 <!--START_SECTION:activity-->
-1. 🎉 Merged PR [#2](https://github.com/imvedanshmehra/job-search-copilot/pull/2) in [imvedanshmehra/job-search-copilot](https://github.com/imvedanshmehra/job-search-copilot)
-2. 💪 Opened PR [#2](https://github.com/imvedanshmehra/job-search-copilot/pull/2) in [imvedanshmehra/job-search-copilot](https://github.com/imvedanshmehra/job-search-copilot)
+1. 🎉 Merged PR [#1](https://github.com/imvedanshmehra/Repo-Chat/pull/1) in [imvedanshmehra/Repo-Chat](https://github.com/imvedanshmehra/Repo-Chat)
+2. 💪 Opened PR [#1](https://github.com/imvedanshmehra/Repo-Chat/pull/1) in [imvedanshmehra/Repo-Chat](https://github.com/imvedanshmehra/Repo-Chat)
 3. 🎉 Merged PR [#1](https://github.com/imvedanshmehra/job-search-copilot/pull/1) in [imvedanshmehra/job-search-copilot](https://github.com/imvedanshmehra/job-search-copilot)
 4. 💪 Opened PR [#1](https://github.com/imvedanshmehra/job-search-copilot/pull/1) in [imvedanshmehra/job-search-copilot](https://github.com/imvedanshmehra/job-search-copilot)
 5. 🎉 Merged PR [#37](https://github.com/digitallydrunk/PrepaidFriends2.0/pull/37) in [digitallydrunk/PrepaidFriends2.0](https://github.com/digitallydrunk/PrepaidFriends2.0)
