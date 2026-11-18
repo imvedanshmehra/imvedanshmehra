@@ -2,13 +2,21 @@
  
  ---
  
-A software developer from India primarily working on JavaScript and few other technologies mentioned in the ***toolkit*** below.
+A software developer from India building LLM-powered products and full-stack TypeScript systems — from MCP servers and AI agents to monorepo backends and React/React Native apps.
 
 ---
 
-🔧 Toolkit
+## 🧰 Stack
 
-<img src="https://github.com/devicons/devicon/blob/master/icons/html5/html5-original.svg" alt="HTML" width="80" height="80"/>  <img src="https://github.com/devicons/devicon/blob/master/icons/css3/css3-plain-wordmark.svg" alt="CSS" width="80" height="80"/>   <img src="https://github.com/devicons/devicon/blob/master/icons/sass/sass-original.svg" alt="CSS" width="80" height="80"/>  <img src="https://github.com/devicons/devicon/blob/master/icons/javascript/javascript-original.svg" alt="JavaScript" width="80" height="80"/>  <img src="https://github.com/devicons/devicon/blob/master/icons/react/react-original.svg" alt="NodeJS" width="80" height="80"/>  <img src="https://github.com/devicons/devicon/blob/master/icons/nodejs/nodejs-original-wordmark.svg" alt="NodeJS" width="80" height="80"/>  <img src="https://github.com/devicons/devicon/blob/master/icons/graphql/graphql-plain-wordmark.svg" alt="NodeJS" width="80" height="80"/>  <img src="https://github.com/devicons/devicon/blob/master/icons/git/git-original-wordmark.svg" alt="Git" width="80" height="80"/>  <img src="https://github.com/devicons/devicon/blob/master/icons/npm/npm-original-wordmark.svg" alt="npm" width="80" height="80"/>  <img src="https://github.com/devicons/devicon/blob/master/icons/yarn/yarn-original-wordmark.svg" alt="yarn" width="80" height="80"/> <img src="https://github.com/devicons/devicon/blob/master/icons/go/go-original-wordmark.svg" alt="golang" width="80" height="80"/>
+| Area | Tools I ship with |
+|---|---|
+| **Languages** | TypeScript · JavaScript · Go |
+| **AI / LLM systems** | Anthropic Claude API · Model Context Protocol (MCP clients & servers) · OpenAI · Groq · tool use & structured outputs (Zod) |
+| **Frontend & mobile** | React · Next.js (App Router) · React Native · Tailwind CSS |
+| **Backend** | Node.js · Express · background workers & schedulers · Telegram bots (Telegraf) |
+| **Data** | PostgreSQL · pgvector · Prisma · MongoDB · SQLite · MinIO (S3-compatible storage) |
+| **Architecture & tooling** | Turborepo / pnpm monorepos · shared typed contracts · Docker & docker-compose · ESLint · Prettier · Jest |
+| **Practice** | Spec-driven development · frontend system design · technical writing |
 
 ---
 
