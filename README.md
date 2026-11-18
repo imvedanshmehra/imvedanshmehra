@@ -20,22 +20,6 @@ A software developer from India building LLM-powered products and full-stack Typ
 
 ---
 
-# Recent Activity :zap:
-<!--START_SECTION:activity-->
-1. 🎉 Merged PR [#1](https://github.com/imvedanshmehra/Repo-Chat/pull/1) in [imvedanshmehra/Repo-Chat](https://github.com/imvedanshmehra/Repo-Chat)
-2. 💪 Opened PR [#1](https://github.com/imvedanshmehra/Repo-Chat/pull/1) in [imvedanshmehra/Repo-Chat](https://github.com/imvedanshmehra/Repo-Chat)
-3. 🎉 Merged PR [#1](https://github.com/imvedanshmehra/job-search-copilot/pull/1) in [imvedanshmehra/job-search-copilot](https://github.com/imvedanshmehra/job-search-copilot)
-4. 💪 Opened PR [#1](https://github.com/imvedanshmehra/job-search-copilot/pull/1) in [imvedanshmehra/job-search-copilot](https://github.com/imvedanshmehra/job-search-copilot)
-5. 🎉 Merged PR [#37](https://github.com/digitallydrunk/PrepaidFriends2.0/pull/37) in [digitallydrunk/PrepaidFriends2.0](https://github.com/digitallydrunk/PrepaidFriends2.0)
-6. 🎉 Merged PR [#36](https://github.com/digitallydrunk/PrepaidFriends2.0/pull/36) in [digitallydrunk/PrepaidFriends2.0](https://github.com/digitallydrunk/PrepaidFriends2.0)
-7. ❌ Closed PR [#32](https://github.com/digitallydrunk/PrepaidFriends2.0/pull/32) in [digitallydrunk/PrepaidFriends2.0](https://github.com/digitallydrunk/PrepaidFriends2.0)
-8. 🎉 Merged PR [#28](https://github.com/digitallydrunk/PrepaidFriends2.0/pull/28) in [digitallydrunk/PrepaidFriends2.0](https://github.com/digitallydrunk/PrepaidFriends2.0)
-9. 🎉 Merged PR [#33](https://github.com/digitallydrunk/PrepaidFriends2.0/pull/33) in [digitallydrunk/PrepaidFriends2.0](https://github.com/digitallydrunk/PrepaidFriends2.0)
-10. 🎉 Merged PR [#31](https://github.com/digitallydrunk/PrepaidFriends2.0/pull/31) in [digitallydrunk/PrepaidFriends2.0](https://github.com/digitallydrunk/PrepaidFriends2.0)
-<!--END_SECTION:activity-->
-
----
-
 #### :books: Recent Blog Posts
 <!-- BLOGPOSTS:START -->
  - 💫 [Telegram bot with Node.js and Telegraf](https://vedanshmehra.hashnode.dev/telegram-bot-with-nodejs-and-telegraf)
